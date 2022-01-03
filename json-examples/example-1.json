@@ -1,0 +1,19 @@
+//{
+//  "test1": "12",
+//  "test2": 2,
+//  "test3": true
+//}
+
+{
+  "test1": "12",
+  "test2": {
+    "test3": 2,
+    "test4": false,
+    "info": {
+      "address": {
+        "city": "tehran"
+      }
+    }
+  },
+  "test5": 10
+}
